@@ -1,0 +1,55 @@
+#head{
+  background: url("http://www.weatherback.com/img/weather/night-background.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+ }
+
+.jumbotron{
+  background: transparent;
+}
+
+
+#title{
+  color: white;
+  margin-top: 50px;
+  margin-left:100px;
+  margin-right:100px;
+  padding: 35px 0px;
+}
+
+#city{
+  color: white;
+  margin-top: -60px;
+  padding: 25px 0px;
+  font-size: 38px;
+}
+ul{
+  margin-left: -30px;
+}
+ul li{
+  display: inline-block;
+  margin-right: 30px;
+}
+
+
+#temp{
+  color: white;
+}
+
+#format{
+  font-weight: bold;
+  font-size: 36px;
+  margin-left:-30px;
+}
+
+
+a, a:hover, a:active, a:visited {
+    text-decoration:none;
+}
+
+
+#image{
+  margin-top: -15px;
+  margin-right: -45px;
+  height: 80px;
+}
